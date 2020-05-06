@@ -458,6 +458,10 @@ a:hover, a:active {
     margin: 0;
 }
 
+.site-title a{
+    color:black;
+}
+
 /*
   Hamburger Menu
 ----------------------------------------*/
