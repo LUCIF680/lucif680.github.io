@@ -795,11 +795,6 @@ a:hover, a:active {
     width: 100%;
     padding: 30px 20px;
     background: rgba(25,25,25,.70);
-    visibility: hidden;
-}
-
-.blog-content:hover .entry-content {
-    visibility: visible;
 }
 
 .blog-content h3 {
