@@ -449,6 +449,10 @@ a:hover, a:active {
     .site-header {
         padding: 16px 0;
     }
+    .site-title a{
+        color:black;
+        font-size: 5px;
+    }
 }
 
 /*
@@ -460,6 +464,9 @@ a:hover, a:active {
 
 .site-title a{
     color:black;
+    font-size: large;
+    font-weight: 300;
+    text-decoration: none;
 }
 
 /*
